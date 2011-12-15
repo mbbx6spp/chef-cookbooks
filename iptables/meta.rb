@@ -1,0 +1,7 @@
+name "iptables"
+version "0.1.0"
+maintainer "Susan Potter"
+maintainer_email "me@susanpotter.net"
+license "BSD3"
+description "Recipes and definitions for iptables"
+recipe "iptables", "Default installation and definitions for iptables"

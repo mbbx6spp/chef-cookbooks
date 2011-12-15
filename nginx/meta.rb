@@ -1,0 +1,7 @@
+name "nginx"
+maintainer "Susan Potter"
+maintainer_email "me@susanpotter.net"
+license "BSD"
+description "Recipes to install Nginx"
+provides "service[nginx]"
+recipe "nginx", "Default installation of Nginx"
